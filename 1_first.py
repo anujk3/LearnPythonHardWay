@@ -9,3 +9,4 @@ print "I'd much rather you 'not'."
 print 'I "said" do not touch this'
 print "check out .gitignore"
 print "chodu moto g"
+print "check moto f"
